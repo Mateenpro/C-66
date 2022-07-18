@@ -7,7 +7,8 @@ import {
   TouchableOpacity,
   Image,
   Alert,
-  Platform
+  Platform,
+  Button
 } from 'react-native';
 import { Header } from 'react-native-elements';
 import db from './localdb';
